@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script Name:                  challenge01
+# Script Name:                  Filepermission.sh
 # Author:                       scotty Jokon
 # Date of latest revision:      11/29/2023
 # Purpose:                      Change permission for files in directory
