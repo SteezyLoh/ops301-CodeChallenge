@@ -28,7 +28,7 @@ while true; do
 
         ;;
       4)
-        echo "BYE B***h"
+        echo "BYE"
         exit 0
 
         ;;
