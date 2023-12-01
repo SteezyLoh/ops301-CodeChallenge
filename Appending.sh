@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Script Name:                  challenge01
+# Script Name:                  Appending.sh
 # Author:                       scotty Jokon
 # Date of latest revision:      11/28/2023
 # Purpose:                      Copies /var/log/syslog to the current working directory
