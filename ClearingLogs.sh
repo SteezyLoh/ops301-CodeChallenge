@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script Name:                  Conditional In Menu System
 # Author:                       Scotty Jokon
-# Date of latest revision:      11/30/2023
+# Date of latest revision:      12/1/2023
 # Purpose:                      Create a bash script that launches a menu system                       
 # Source                        https://chat.openai.com/share/383efdeb-65bf-403a-8730-31a24731858f
 
