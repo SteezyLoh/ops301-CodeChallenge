@@ -7,4 +7,5 @@ November/29/2023
 - [Day 05 - ClearingLog](ClearingLogs.sh)
 - [Day 06 - Bash in Python](Class06.py)
 - [Day 07 - Directory Creation](class07.py)
-- [Day 08 - Python CollectionsOverview](Class08.py)
+- [Day 08 - Python Collections Overview](Class08.py)
+- [Day 09 - Python Conditional Statements](class09.py)
