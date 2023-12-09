@@ -3,6 +3,7 @@
 # Arthur:    Scotty Jokon
 # Date:      12/8/2023
 # Purpose:  Python File Handling Overview
+# Resources: Ethan Denny
 
 import os
 file = open("test.txt",  "w")
