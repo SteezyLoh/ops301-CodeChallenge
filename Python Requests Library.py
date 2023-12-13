@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+# Arthur:    Scotty Jokon
+# Date:      12/7/2023
+# Purpose:  Python Conditional Statements
+# Resources: https://chat.openai.com/share/7d6d7504-ade5-4c60-8485-96d68c6248cb
+
 import requests
 
 
